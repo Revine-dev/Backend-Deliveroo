@@ -1,4 +1,7 @@
 # Backend-Deliveroo
 
-Utilisé pour envoyer mail depuis la reproduction du site Tripadvisor :
+Used only for send mail :
 https://backend-deliveroo-revine.herokuapp.com
+
+🖥 Languages : 
+[![NODEJS](https://user-images.githubusercontent.com/59733143/124147140-b877c400-da8e-11eb-9ecd-cb2eefaa609b.png)](https://nodejs.org/en/)
