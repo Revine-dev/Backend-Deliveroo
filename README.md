@@ -1,6 +1,6 @@
 # Backend-Deliveroo
 
-Used only for send mail :
+Used only for send json content :
 https://backend-deliveroo-revine.herokuapp.com
 
 🖥 Languages : 
